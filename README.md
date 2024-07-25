@@ -1,3 +1,3 @@
-# CRT-INTERNSHIP-TASK-1
+# RESUME BUILDER-WEBSITE
 # Online Resume Builder
-Task-1 of my Coding Raja Internships
+Task-1 of my Coding EDUNET Internships
